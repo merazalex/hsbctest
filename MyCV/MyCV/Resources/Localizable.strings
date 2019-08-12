@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  MyCV
+
+  Created by Alex Meraz on 8/8/19.
+  Copyright © 2019 Alex Meraz. All rights reserved.
+*/
+
+"MAIN_TITLE"              = "My CV";
+
+"HOME_SECTION_EXPERIENCE" = "Experience";
+"HOME_SECTION_EDUCATION"  = "Education";
+"HOME_SECTION_SKILLS"     = "Skills and Endorsements";
+"HOME_SECTION_CONTACT"    = "Contact";
+
+"SUMMARY_TITLE"           = "Summary";
+"SKILLS_TITLE"            = "Skills";
